@@ -9,7 +9,7 @@
 | 项目名称 | 主要贡献者     | 联系方式     | Review文章     |
 | :------------- | :------------- | :------------- |:------------- |
 |  LFLiveKit      | chenliming777       | chenliming777@qq.com       | [戳开->LFLiveKit深入分析](https://github.com/zhaoxiaobao/OpenSource-Review/blob/master/Projects/LFLiveKit/LFLiveKit-Review.md)       |
-
+|  ijkplayer| [bbcallen](https://github.com/bbcallen)       | 无       | [戳开->ijkplayer深入分析](https://github.com/zhaoxiaobao/OpenSource-Review/blob/master/Projects/ijkplayer/ijkplayer-Review.md)       |
 
 
 
