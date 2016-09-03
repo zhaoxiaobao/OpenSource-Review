@@ -1,7 +1,7 @@
 ![OpenSource-Review](https://github.com/zhaoxiaobao/OpenSource-Review/raw/master/logo.png)
 
 # OpenSource-Review
-简介：这个项目致力于分析一些国人的开源项目，github上现在有太多僵尸项目，对于一些优秀的国产项目还是值得继续支持的，项目主要收集github上一些现在还活跃的开源作者，当然也可能收集一下开源作者的邮箱和联系方式，如果有工作机会希望大家能相互帮助下。本人现在在读，没啥太多工作经验，磕磕绊绊做过一些小项目，所以借此项目参与一些开源项目。
+简介：这个项目致力于分析一些国人的开源项目，github上现在有太多僵尸项目，对于一些优秀的国产项目还是值得继续支持的，项目主要收集github上一些现在还活跃的开源作者，当然也可能收集一下开源作者的邮箱和联系方式，[Github 用国内用户贡献榜](https://github.com/search?langOverride=&language=&q=location%3Achina&repo=&start_value=1&type=Users)。
 
 # 文章列表
 > 如有误录或者侵犯作者权益，请联系修正！
