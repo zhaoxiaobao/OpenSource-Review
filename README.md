@@ -11,7 +11,7 @@
 |  LFLiveKit      | chenliming777       | chenliming777@qq.com       | [戳开->LFLiveKit深入分析](https://github.com/zhaoxiaobao/OpenSource-Review/blob/master/Projects/LFLiveKit/LFLiveKit-Review.md)       |
 |  ijkplayer| [bbcallen](https://github.com/bbcallen)       | 无       | [戳开->ijkplayer深入分析](https://github.com/zhaoxiaobao/OpenSource-Review/blob/master/Projects/ijkplayer/ijkplayer-Review.md)       |
 |  [BeeHive](https://github.com/alibaba/BeeHive)| alibaba       |一渡 shijie.qinsj@alibaba-inc.com、达兹 dazi.dp@alibaba-inc.com       | [戳开->BeeHive深入分析](https://github.com/zhaoxiaobao/OpenSource-Review/blob/master/Projects/BeeHive/BeeHive.md)       |
-|  [MD360Player4iOS](https://github.com/ashqal/MD360Player4iOS)      | ashqal       | ashqalcn@gmail.com       | [戳开->LFLiveKit深入分析](https://github.com/zhaoxiaobao/OpenSource-Review/blob/master/Projects/MD360Player4iOS/MD360Player4iOS-Review.md)       |
+|  [MD360Player4iOS](https://github.com/ashqal/MD360Player4iOS)      | MD360Player4iOS       | ashqalcn@gmail.com       | [戳开->LFLiveKit深入分析](https://github.com/zhaoxiaobao/OpenSource-Review/blob/master/Projects/MD360Player4iOS/MD360Player4iOS-Review.md)       |
 
 
 ---

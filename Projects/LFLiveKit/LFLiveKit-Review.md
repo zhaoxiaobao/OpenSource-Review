@@ -236,5 +236,5 @@ static void VideoCompressonOutputCallback(void *VTref, void *VTFrameRef, OSStatu
 ```
 > 上传数据之前用librtmp-iOS，后来改用pili-librtmp，疑似还有小bug，可能和服务器有关。
 
-## 结尾
-希望对大家帮助
+## 附
+[iOS音视频](http://www.jianshu.com/users/c68741efc396/latest_articles)
